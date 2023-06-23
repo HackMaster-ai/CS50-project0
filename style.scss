@@ -125,3 +125,23 @@ form {
         }
     }
 }
+
+// responsive side
+@media (max-width: 430px) {
+    #main-page {
+        h1 {
+            font-size: 30px;
+            margin-bottom: 4vh;
+        }
+    }
+
+    #search-field {
+        padding: 10px;
+        width: 35vh;
+    }
+
+    #button {
+        padding: 9px;
+        font-size: 15px;
+    }
+}
