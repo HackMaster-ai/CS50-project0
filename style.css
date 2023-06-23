@@ -47,8 +47,8 @@ nav ul li a {
   color: #21201d;
   text-transform: capitalize;
   font-weight: bold;
-  font-size: 80px;
-  margin-bottom: 5vh;
+  font-size: 65px;
+  margin-bottom: 4vh;
 }
 
 #main-page div {
@@ -67,8 +67,8 @@ form {
 
 #search-field {
   padding: 20px;
-  width: 50vw;
-  margin-bottom: 5vh;
+  width: 40vw;
+  margin-bottom: 4vh;
   border: 1.5px solid black;
   border-radius: 10px;
 }
@@ -80,7 +80,7 @@ form {
   border: none;
   background-color: chocolate;
   border-radius: 15px;
-  text-transform: uppercase;
+  text-transform: capitalize;
 }
 
 #button:hover {
