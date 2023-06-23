@@ -80,6 +80,7 @@ form {
   border: none;
   background-color: chocolate;
   border-radius: 15px;
+  text-transform: uppercase;
 }
 
 #button:hover {
